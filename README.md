@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Joaquín! 👋
 
-<!--
-**Joaquin-Spero/Joaquin-Spero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Bilingual Full Stack Developer in training | Python & JavaScript
 
-Here are some ideas to get you started:
+I am a software development student based in Argentina, bridging the gap between solid academic algorithms and modern web technologies. With hands-on experience working in the US under a J-1 Work and Travel program, I thrive in multicultural, fast-paced environments and communicate effectively across language barriers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm focused on helping build clean, interactive web interfaces and automating repetitive tasks.
+
+---
+
+### 💻 Tech Stack
+* **Frontend:** HTML5, CSS3, JavaScript
+* **Backend & Data:** Python, SQL, Node.js (Learning)
+* **Tools:** Git, GitHub
+
+### 📚 What I'm currently learning
+* Deepening my knowledge in **Databases** and **System Architecture** at UTN.
+* Mastering **React.js** and **Backend APIs** at Coderhouse.
+
+### 📫 Let's connect!
+* **Email:** [sperojoaquin@icloud.com](mailto:sperojoaquin@icloud.com)
+* **LinkedIn:** [LinkedIn](linkedin.com/in/joaquin-spero-ba9b21371)
