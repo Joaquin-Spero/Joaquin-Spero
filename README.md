@@ -1,11 +1,10 @@
 # Hi there, I'm Joaquín! 👋
 
-### Bilingual Full Stack Developer in training | Python & JavaScript
+### Full Stack Developer in training | Python & JavaScript
 
-I am a software development student based in Argentina, bridging the gap between solid academic algorithms and modern web technologies. With hands-on experience working in the US under a J-1 Work and Travel program, I thrive in multicultural, fast-paced environments and communicate effectively across language barriers.
+I am a software development student based in Argentina, bridging the gap between solid academic algorithms and modern web technologies. I have conversational English skills backed by my experience working in the US under a J-1 Work and Travel program, which taught me how to adapt to multicultural, fast-paced environments.
 
 Currently, I'm focused on helping build clean, interactive web interfaces and automating repetitive tasks.
-
 ---
 
 ### 💻 Tech Stack
