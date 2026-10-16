@@ -9,7 +9,7 @@ I am a pragmatic software developer based in Santa Fe, Argentina, currently purs
 🎯 **Current Focus:** Building scalable **Backend architectures**, **automating processes with Python**, managing **relational/NoSQL databases**, and ensuring software quality through **unit testing and observability**.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/[linkedin.com/in/joaquin-spero-ba9b21371](https://www.linkedin.com/in/joaquin-spero/)/" target="_blank">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/joaquin-spero//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:sperojoaquin@icloud.com">
