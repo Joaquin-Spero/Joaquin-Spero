@@ -71,11 +71,11 @@ I am a pragmatic software developer based in Santa Fe, Argentina, currently purs
 
 ---
 
-### ⚡ Engineering Highlights & Areas of Expertise
+### ⚡ Core Concepts & Technical Focus
 
-* **Backend & Architecture:** Layered architecture (Controller-Service-DAO/Repository, DTOs), RESTful APIs, authentication/authorization (Passport, JWT), and asynchronous event-driven patterns (`EventEmitter`, WebSockets, message queues).
-* **Quality Assurance & Observability:** Unit & integration testing (`Jest`, `Mocha`, `Chai`, `Supertest`), structured logging (`Winston`/`Pino`), load testing (`Artillery`), and cybersecurity audit trail fundamentals.
-* **Data & Automation:** Relational data modeling (`SQL`), Python scripting for process automation, exploratory data analysis, and LLM API integration (`Groq` / Prompt Engineering).
+* **Backend & Architecture:** Layered architecture (Controller-Service-DAO/Repository, DTOs), RESTful APIs, authentication/authorization (Passport, JWT), and asynchronous programming (WebSockets, event-driven patterns).
+* **Quality Assurance & Testing:** Unit and API testing (`Jest`, `Mocha`, `Chai`), endpoint validation (`Postman`), error handling, and clean code practices.
+* **Data & Automation:** Relational and NoSQL data modeling (`SQL`, `MongoDB`), Python scripting for process automation, exploratory data analysis (`Jupyter`), and LLM API integration (`Groq` / Prompt Engineering).
 
 ---
 
